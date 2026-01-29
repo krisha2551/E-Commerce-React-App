@@ -6,6 +6,8 @@ It allows users to browse products, add items to the cart, place orders, and man
 🖥️ Screenshots
 
 🏪 Product Listing Page
+<img width="1920" height="2647" alt="image" src="https://github.com/user-attachments/assets/c40b937d-6fab-4cf7-b1e0-35b3193e0530" />
+
 
 🛍️ Add to Cart Popup
 
@@ -13,9 +15,13 @@ It allows users to browse products, add items to the cart, place orders, and man
 
 
 🛒 Cart Modal
+<img width="1920" height="2647" alt="image" src="https://github.com/user-attachments/assets/9154884c-acc3-4ca6-87d0-f1e327cb38b2" />
+
 
 
 📦 Orders Page
+<img width="1920" height="1938" alt="image" src="https://github.com/user-attachments/assets/db8c8a6b-b3b2-481f-bc7c-caaca6751caa" />
+
 
 🚀 Features
 
