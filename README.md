@@ -3,6 +3,20 @@
 Urban-Cart is a modern e-commerce web application built with React + Vite + Bootstrap.
 It allows users to browse products, add items to the cart, place orders, and manage order history.
 
+🖥️ Screenshots
+
+🏪 Product Listing Page
+
+🛍️ Add to Cart Popup
+
+<img src="./public/assets/1.png" width="900" alt="" />
+
+
+🛒 Cart Modal
+
+
+📦 Orders Page
+
 🚀 Features
 
 ✅ Product Listing (Grid Layout)
@@ -23,19 +37,6 @@ It allows users to browse products, add items to the cart, place orders, and man
 
 ✅ Responsive UI with Bootstrap
 
-🖥️ Screenshots
-🏪 Product Listing Page
-<img width="1920" height="2647" alt="image" src="https://github.com/user-attachments/assets/0cdd1605-10a0-4331-8864-49166bff2ca6" />
-
-
-🛍️ Add to Cart Popup
-
-
-🛒 Cart Modal
-
-📦 Orders Page
-
-💡 If your images are in another folder, update the paths accordingly.
 
 🛠️ Tech Stack
 
@@ -70,6 +71,7 @@ src/
 │── db.json
 
 ⚙️ Installation & Setup
+
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/urban-cart.git
 
