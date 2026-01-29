@@ -15,7 +15,7 @@ It allows users to browse products, add items to the cart, place orders, and man
 
 
 🛒 Cart Modal
-<img width="1920" height="2647" alt="image" src="https://github.com/user-attachments/assets/9154884c-acc3-4ca6-87d0-f1e327cb38b2" />
+
 
 
 
