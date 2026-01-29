@@ -25,8 +25,11 @@ It allows users to browse products, add items to the cart, place orders, and man
 
 🖥️ Screenshots
 🏪 Product Listing Page
+<img width="1920" height="2647" alt="image" src="https://github.com/user-attachments/assets/0cdd1605-10a0-4331-8864-49166bff2ca6" />
+
 
 🛍️ Add to Cart Popup
+
 
 🛒 Cart Modal
 
