@@ -60,32 +60,41 @@ It allows users to browse products, add items to the cart, place orders, and man
 
 📂 Project Structure
 
-src/
-│── assets/
-│── components/
-│   ├── CartModal.jsx
-│   ├── Error.jsx
-│   ├── Loading.jsx
-│   ├── Navbar.jsx
-│   ├── Orders.jsx
-│   ├── Product.jsx
-│── hooks/
-│   ├── http.js
-│── App.jsx
-│── main.jsx
-│── index.css
-│── db.json
+src/<br>
+│<br>
+│── assets/<br>
+│<br>
+│── components/<br>
+│&nbsp;&nbsp;├── CartModal.jsx<br>
+│&nbsp;&nbsp;├── Error.jsx<br>
+│&nbsp;&nbsp;├── Loading.jsx<br>
+│&nbsp;&nbsp;├── Navbar.jsx<br>
+│&nbsp;&nbsp;├── Orders.jsx<br>
+│&nbsp;&nbsp;├── Product.jsx<br>
+│<br>
+│── hooks/<br>
+│&nbsp;&nbsp;└── http.js<br>
+│<br>
+│── App.jsx<br>
+│── main.jsx<br>
+│── index.css<br>
+│── db.json<br>
+
 
 ⚙️ Installation & Setup
 
 1️⃣ Clone the Repository
+
 git clone https://github.com/your-username/urban-cart.git
 
 2️⃣ Install Dependencies
+
 npm install
 
 3️⃣ Start the React App
+
 npm run dev
 
 4️⃣ Start JSON Server (API)
+
 npx json-server --watch db.json --port 5000
